@@ -34,7 +34,7 @@ a {
 
 a:hover,
 .hover:hover {
-    border-color: #FF2851;
+    border-color: #77649F;
     border-style: solid;
     border-width: 0 0 3px
 }
@@ -96,7 +96,7 @@ p {
     font-size: 17px;
     font-weight: 400;
     margin-top: 50px;
-    color: #ff2851
+    color: #77649F
 }
 
 li {
@@ -116,8 +116,8 @@ li:first-child {
 
 .img {
     display: none;
-    
     width: 500px;
+    height:500px;
     left: 50%;
     opacity: .9;
     position: fixed;
