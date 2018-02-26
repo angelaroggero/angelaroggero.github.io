@@ -7,7 +7,7 @@ $(document).ready(function() {
         $(".img_cincinnati").show()
     }).on("mouseout", function() {
         $(".img_cincinnati").hide()
-    }), 
+    }),
 
 
 
