@@ -47,6 +47,7 @@ a:hover,
 }
 
 h1 {
+
     font-weight: 400;
     font-size: 25px;
     line-height: 1.4;
@@ -69,6 +70,10 @@ p {
     font-size: 14px;
     font-weight: 400;
     max-width: 600px
+}
+
+.name {
+  color: #77649F !important;
 }
 
 .experiences {
@@ -116,8 +121,8 @@ li:first-child {
 
 .img {
     display: none;
-    width: 500px;
-    height:500px;
+    width: 700px;
+
     left: 50%;
     opacity: .9;
     position: fixed;
