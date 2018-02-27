@@ -40,7 +40,7 @@ a:hover,
 }
 
 .content {
-    left: 10%;
+    left: 20%;
     top: 10%;
     right: 10%;
     position: absolute
@@ -121,13 +121,14 @@ li:first-child {
 
 .img {
     display: none;
-    width: 700px;
-
-    left: 50%;
+    height: 100%;
+    weight: auto;
+    left: 55%;
     opacity: .9;
-    position: fixed;
-    top: 15%
+    position: absolute;
+
 }
+
 
 #wrapper {
     width: 100%;
