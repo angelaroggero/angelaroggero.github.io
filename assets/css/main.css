@@ -53,11 +53,9 @@ a {
     max-width: calc(1100px + (1.6rem*2))
 }
 
-figure {
-    margin: 0
-}
 
-figure img {
+
+.neyer {
     display: block;
     margin-left: auto;
     margin-right: auto
