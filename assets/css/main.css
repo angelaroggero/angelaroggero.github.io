@@ -32,6 +32,17 @@ a {
     -webkit-transition: border-color .2s ease-in-out
 }
 
+figure {
+    margin: 0
+}
+
+figure .neyer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+
 a:hover,
 .hover:hover {
     border-color: #77649F;
