@@ -32,6 +32,27 @@ a {
     -webkit-transition: border-color .2s ease-in-out
 }
 
+.wrapper,
+.wrapper-wide {
+    padding: 0 16px;
+    margin: 0 auto
+}
+
+@media only screen and (min-width: 500px) {
+    .wrapper,
+    .wrapper-wide {
+        padding: 0 1.6rem
+    }
+}
+
+.wrapper {
+    max-width: calc(700px + (1.6rem*2))
+}
+
+.wrapper-wide {
+    max-width: calc(1100px + (1.6rem*2))
+}
+
 figure {
     margin: 0
 }
