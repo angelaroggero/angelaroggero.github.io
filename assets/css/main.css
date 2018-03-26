@@ -53,12 +53,14 @@ a {
     max-width: calc(1100px + (1.6rem*2))
 }
 
-
+.hero {
+  margin:auto !important;
+}
 
 .neyer {
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
 }
 
 .yoga {
