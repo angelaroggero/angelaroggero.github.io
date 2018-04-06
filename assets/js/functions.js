@@ -37,10 +37,10 @@ $(document).ready(function() {
 
 
 
-    $(".link_golf").on("mouseover", function() {
-        $(".img_golf").show()
+    $(".link_first-tee").on("mouseover", function() {
+        $(".img_first-tee").show()
     }).on("mouseout", function() {
-        $(".img_golf").hide()
+        $(".img_first-tee").hide()
     }),
 
 
@@ -55,10 +55,10 @@ $(document).ready(function() {
 
 
 
-     $(".link_tv").on("mouseover", function() {
-        $(".img_tv").show()
+     $(".link_golf").on("mouseover", function() {
+        $(".img_golf").show()
     }).on("mouseout", function() {
-        $(".img_tv").hide()
+        $(".img_golf").hide()
     }),
 
 
